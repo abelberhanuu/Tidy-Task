@@ -12,5 +12,5 @@ Tidy-Task is a robust and responsive todo application built using React.js, leve
 
 ## Technologies Used
 
-- **Frontend**: React.js
+- **Frontend**: React.js, CSS, Vite
 - **Storage**: Local Storage
